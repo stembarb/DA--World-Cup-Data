@@ -143,5 +143,5 @@ while counter < len(link_list) and len(link_list) > 0:
 append_data = pd.concat(append_data, axis=0, ignore_index=True)
 # Concatanate all elements (dataframes) in the append_data list to receive one dataframe
 
-append_data.to_excel('WorldCupData2.xlsx')
+append_data.to_excel('WorldCupData.xlsx')
 # Export dataframe to excel file
