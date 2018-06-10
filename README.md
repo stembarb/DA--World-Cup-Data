@@ -2,6 +2,21 @@
 
 FIFA World Cup Project for Udacity Data Science Challenge.
 
+## Getting Started
+
+You can run this code on your local machine. There is no need to change anything in the code.
+
+### Prerequisites
+
+Python 3.x
+Program capable of opening files in the xlsx format (Excel, Google Sheets etc.).
+
+### Installing
+
+* Create new .py file on your drive
+* Copy the entire code into that file and save
+* Open terminal, navigate to the location of file and execute file 
+
 ## Built With
 
 * [Python 3](https://docs.python.org/3/) - Python 3
