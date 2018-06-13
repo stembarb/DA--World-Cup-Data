@@ -25,7 +25,7 @@ Clone this repository into your virtual environment, install project dependencie
 ```
 git clone https://github.com/bara-bash/worldcupproject.git
 pip install -r worldcupproject/requirements.txt
-python worldcupproject/Web_scraping.py
+python worldcupproject/Web_Scraping.py
 ```
  
 
