@@ -1,6 +1,6 @@
-# FIFA World Cup Project
+# FIFA World Cup Project Udacity Data Science Challenge.
 
-FIFA World Cup Project for Udacity Data Science Challenge.
+The goal of this project is to show how we collected data from the FIFA World Cup website for the 2018 World Cup Russia - Group Stage Prediction Project. Data was collected using a web crawler (build in Python)
 
 ## Getting Started
 
@@ -8,14 +8,26 @@ You can run this code on your local machine. There is no need to change anything
 
 ### Prerequisites
 
-Python 3.x
-Program capable of opening files in the xlsx format (Excel, Google Sheets etc.).
+* Python 3.x
 
-### Installing
+### Dependencies
 
-* Create new .py file on your drive
-* Copy the entire code into that file and save
-* Open terminal, navigate to the location of file and execute file 
+With python 3.x installed, create a virtual environment and activate it as shown:
+```
+  virtualenv -p python3 my_virtualenv
+  source my_virtualenv/bin/activate
+```
+
+
+### Running the project
+
+Clone this repository into your virtual environment, install project dependencies and then run the project as shown below:
+```
+git clone https://github.com/bara-bash/worldcupproject.git
+pip install -r worldcupproject/requirements.txt
+python worldcupproject/Web_scraping.py
+```
+ 
 
 ## Built With
 
