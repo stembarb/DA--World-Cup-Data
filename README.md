@@ -6,7 +6,7 @@ The goal of this notebook is to show how I collected data from the FIFA World Cu
 The content of this notebook is as follows:
 
 1. Web crawler code in .py format - heavily commented version, used to teach others how to build a similar program
-2. Web crawler code in Jupyter notebook format 
+2. Web crawler code in Jupyter notebook 
 3. requirements.txt
 
 ### Dependencies
