@@ -1,4 +1,5 @@
-# Data Collection for 2018 FIFA World Cup Russia™ Prediction Project
+# Data Collection
+# 2018 FIFA World Cup Russia™ Prediction Project
 
 The goal of this notebook is to show how I collected data from the FIFA World Cup website. Data was collected using a web crawler, due to lack of API.
 
