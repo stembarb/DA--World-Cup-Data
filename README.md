@@ -25,7 +25,7 @@ The following libraries were used:
 
 Clone this repository into your virtual environment, install project dependencies and then run the project as shown below:
 ```
-git clone https://github.com/barbarastempien/worldcupproject.git
+git clone https://github.com/BarbaraStempien/worldcupproject.git
 pip install -r worldcupproject/requirements.txt
 python worldcupproject/Web_Scraping.py
 ```
