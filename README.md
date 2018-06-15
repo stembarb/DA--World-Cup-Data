@@ -16,7 +16,7 @@ With python 3.x installed, create a virtual environment and activate it as shown
   virtualenv -p python3 my_virtualenv
   source my_virtualenv/bin/activate
 ```
-The following libraries were used::
+The following libraries were used:
 * [Requests](http://docs.python-requests.org/en/master/)
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 * [Pandas](https://pandas.pydata.org/)
