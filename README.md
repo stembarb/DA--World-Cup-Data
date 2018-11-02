@@ -73,7 +73,7 @@ git clone https://github.com/BarbaraStempien/DA--World-Cup-Data.git
 pip install -r DA--World-Cup-Data/requirements.txt
 ```
   
-4. Open Jupter Notebook, and run the project.
+4. Open Jupter Notebook, and run the project or open `web_scraping.py` in your code editor.
 
 
 ## Contributing
